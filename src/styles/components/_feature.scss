@@ -32,8 +32,16 @@
     z-index: 1;
 
     .card-image {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+      border-radius: 10px;
       z-index: 1;
       text-align: center;
+      mix-blend-mode: overlay;
+      mask-image: radial-gradient(
+        circle,
+        black 80%,
+        transparent
+        );
 
       img {
         max-width: 100%;
