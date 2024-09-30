@@ -19,51 +19,15 @@ content_blocks:
     button:
       text: Hablemos 
       link: /contact/
-  - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
-    description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
-    alternate_style: false
-    numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
-  - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
-    remove_top_padding: true
-    description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Email Campaign in one minute
+    title: Fraternidad y Apoyo en la Crianza
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
+      En ConSentidos, creemos que la crianza no debe ser solitaria. Ofrecemos un espacio de apoyo y fraternidad para quienes cuidan y también necesitan ser cuidados. Juntos compartimos experiencias, nos respaldamos y crecemos como comunidad.
     button:
-      link: /signup
-      text: Try This Free
+      link: /contact
+      text: Explora Nuestra Comunidad
     reversed: false
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
