@@ -2,25 +2,25 @@
   "logo": "/images/logo.svg",
   "items": [
     {
-      "text": "Home",
+      "text": "Inicio",
       "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Features",
+      "text": "Nuestros Programas",
       "link": "/features/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "Pricing",
+      "text": "Como Ayudar",
       "link": "/pricing/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
-      "text": "About",
+      "text": "Sobre Nosotros",
       "link": "/about/",
       "enable_dropdown": false,
       "dropdown": []
@@ -43,17 +43,11 @@
           "dropdown_link": "/tags/technology/"
         }
       ]
-    },
-    {
-      "text": "Contact",
-      "link": "/contact/",
-      "enable_dropdown": false,
-      "dropdown": []
     }
   ],
   "enable_nav_btn": true,
   "nav_btn": {
-    "text": "Get Started",
-    "link": "/signup/"
+    "text": "Unete",
+    "link": "/contactx/"
   }
 }
