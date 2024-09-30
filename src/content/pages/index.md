@@ -19,26 +19,16 @@ content_blocks:
     button:
       text: Hablemos 
       link: /contact/
+  
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
+    image: /images/feature/feature-card-two.png
+    image_alt: Visitor chart
     title: Fraternidad y Apoyo en la Crianza
     description: >-
       En ConSentidos, creemos que la crianza no debe ser solitaria. Ofrecemos un espacio de apoyo y fraternidad para quienes cuidan y también necesitan ser cuidados. Juntos compartimos experiencias, nos respaldamos y crecemos como comunidad.
     button:
       link: /contact
       text: Explora Nuestra Comunidad
-    reversed: false
-  - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
-    title: See every Lead in one Place
-    description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
-    button:
-      link: /signup
-      text: Try This Free
     reversed: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
