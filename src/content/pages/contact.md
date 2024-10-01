@@ -10,36 +10,36 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Hablemos.
+    description: Tienes alguna pregunta? Sientete libre de dejarnos tu mensaje!
   - _bookshop_name: contact/form
     address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      heading: Oficina Principal
+      address: Alameda de San Jorge, Bogota, Colombia
     phone:
-      heading: Phone
-      cell: (123) 456 - 7895
+      heading: Telefono
+      cell: +57 316 300 70 59
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: redconsentidos@gmail.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Saludanos!!
       fullname:
-        heading: Full Name
-        placeholder: Enter First Name
+        heading: Nombre Completo
+        placeholder: Ingresa tu nombre completo
       phone_number:
-        heading: Phone number
-        placeholder: Enter Phone Number
+        heading: Numero de telefono 
+        placeholder: Ingresa tu numero de telefono
       email:
-        heading: Email Address
-        placeholder: Enter Email Address
+        heading: Correo Electronico
+        placeholder: Ingresa tu correo electronico
       message:
-        heading: Your Messages
-        placeholder: Enter your message
+        heading: Tu mensaje
+        placeholder: Ingresa tu mensaje
       submit_button:
-        text: Send message
+        text: Envia tu mensaje
 ---
