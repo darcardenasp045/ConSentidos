@@ -9,38 +9,30 @@
     },
     {
       "text": "Nuestros Programas",
-      "link": "/features/",
+      "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
       "text": "Como Ayudar",
-      "link": "/pricing/",
+      "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
       "text": "Sobre Nosotros",
-      "link": "/about/",
+      "link": "/",
       "enable_dropdown": false,
       "dropdown": []
     },
     {
       "text": "Blog",
-      "link": "/blog/",
+      "link": "/",
       "enable_dropdown": true,
       "dropdown": [
         {
           "dropdown_text": "All Articles",
-          "dropdown_link": "/blog"
-        },
-        {
-          "dropdown_text": "Marketing",
-          "dropdown_link": "/tags/marketing/"
-        },
-        {
-          "dropdown_text": "Technology",
-          "dropdown_link": "/tags/technology/"
+          "dropdown_link": "/"
         }
       ]
     }
