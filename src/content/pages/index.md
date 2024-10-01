@@ -18,7 +18,7 @@ content_blocks:
     image_alt: Reports dashboard
     button:
       text: Hablemos 
-      link: /contact/
+      link: /contact
   
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
