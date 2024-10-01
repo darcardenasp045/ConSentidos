@@ -33,41 +33,24 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
     image_alt: File upload
-    title: 100% free uploads
+    title: Pilares Fundamentales de ConSentidos
     description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
+      En ConSentidos, apoyamos la crianza consciente a través de pilares clave como las pautas de crianza, la alimentación saludable, la dinámica familiar, el síndrome de burnout parental, y el emprendimiento y la economía familiar. Nos enfocamos en crear una sociedad más sensible.¡Únete a nuestra comunidad para mejorar juntos el futuro de nuestros niños!
     button:
-      link: /signup
-      text: Try This Free
+      link: /contact
+      text: Empecemos Juntos
     reversed: false
   - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
+    title: Construye lazos que 
+    title_suffix: perduren
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Familias de todo el pais están creando cambios significativos en la crianza con el apoyo y la comunidad de ConSentidos.
     slider:
-      - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
-        message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
-      - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
-        message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
+    
       - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+        image_alt: Profile photo of Lorena Castellanos
+        author: Lorena Castellanos
+        designation: CEO de ConSentidos
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+          Estoy comprometida con ayudar a padres y madres a enfrentar los desafíos de la crianza de manera más consciente y conectada.
 ---
