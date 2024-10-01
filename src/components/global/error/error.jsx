@@ -16,7 +16,7 @@ export default function GlobalError(block) {
                 }}
               ></h3>
               <a href="/" className="btn btn-lg btn-primary">
-                Try again
+                Prueba nuevamente
               </a>
             </div>
           </div>
