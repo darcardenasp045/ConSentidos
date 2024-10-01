@@ -19,7 +19,7 @@ export default function GlobalTestimonial(block) {
             </div>
           </div>
         </div>
-        <div className="row">
+        <div className="row ">
           {block.slider.map((slide, i) => (
             <Testimonial slide={slide} i={i} key={i} />
           ))}
